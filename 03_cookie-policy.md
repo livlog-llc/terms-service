@@ -40,13 +40,7 @@ https://livlog.jp, https://www.cotogoto.ai/
 このタイプのクッキーは、当社サイトの運営に必要です。このタイプのクッキーには、例えば、お客様が当社のウェブサイトに安全にログインするとか、ショッピングカートを使うとか、e-ビリングを使う場合に必要なクッキーです。
 </td>
 <td width="200">
-Backlog<br>
-Cacoo<br>
-Typetalk<br>
-Nulab apps<br>
-Stripe<br>
-PayJP<br>
-Amazon Web Services
+CotoGoto
 </td>
 <td width="400">
 このタイプのクッキーは、クッキーに関する方針サイトへのアクセスに必須ですので拒絶できません。ただし、お客様のブラウザ設定を使用して消去もしくはブロックすることはできます。<br>
@@ -59,10 +53,10 @@ Amazon Web Services
 このタイプのクッキーは、お客様が当社サイトを再閲覧する時のお客様認識に使われます。このクッキーにより、当社のコンテンツをお客様仕様にし、お客様の志向を記憶すること（例えば、お客様の選択言語や地域の記憶）ができますが、当社サイトのパフォーマンスに必須というわけではありません。
 </td>
 <td width="200">
-Intercom<br>
 Google<br>
 Facebook<br>
-Twitter
+Twitter<br>
+Line
 </td>
 <td width="400">
 このタイプのクッキーは、お客様のブラウザ設定を使用して削除もしくはブロックすることができます。<br>
@@ -75,11 +69,8 @@ Twitter
 このタイプのクッキーは、お客様がどのように当社サイトにアクセスし閲覧するかに関する情報を収集します。この情報は、集約情報にして当社サイトの機能向上に役立てたり、当社サイトをお客様個人の興味に合ったものにすることに使われます。
 </td>
 <td width="200">
-Mixpanel<br>
-Google Universal Analytics<br>
-VWO<br>
-Hotjar<br>
-Bing
+Google Analytics<br>
+LogRocket
 </td>
 <td width="400">
 このタイプのクッキーは、お客様のブラウザ設定を使用して削除もしくはブロックすることができます。<br>
@@ -87,11 +78,8 @@ Bing
 
 あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
 
-Mixpanel<br>https://mixpanel.com/optout/<br>
-Google Universal Analytics<br>https://tools.google.com/dlpage/gaoptout<br>
-VWO<br>https://vwo.com/opt-out/<br>
-Hotjar<br>https://www.hotjar.com/legal/compliance/opt-out<br>
-Bing<br>https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+Google Analytics<br>https://tools.google.com/dlpage/gaoptout<br>
+LogRocket<br>https://logrocket.com/privacy/
 </td>
 </tr>
 <tr>
@@ -100,9 +88,7 @@ Bing<br>https://advertise.bingads.microsoft.com/en-us/resources/policies/persona
 このタイプのクッキーにより、ヌーラボサイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して、お客様が興味を持っている宣伝を提供するクッキーもあります。
 </td>
 <td width="200">
-AddThis<br>
-BlueKai<br>
-DoubleClick
+AddThis
 </td>
 <td width="400">
 このタイプのクッキーは、お客様のブラウザ設定を使用して消去もしくはブロックすることができます。<br>
@@ -111,8 +97,6 @@ DoubleClick
 あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
 
 AddThis<br>http://www.addthis.com/privacy/opt-out<br>
-BlueKai<br>http://www.bluekai.com/consumers.php#optout<br>
-DoubleClick<br>https://www.google.com/settings/ads/plugin
 </td>
 </tr>
 </table>
