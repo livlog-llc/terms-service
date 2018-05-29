@@ -88,19 +88,24 @@ Bing
 </tr>
 <tr>
 <td width="200">
-分析またはカスタマイズクッキー<br>
-このタイプのクッキーは、お客様がどのように当社サイトにアクセスし閲覧するかに関する情報を収集します。この情報は、集約情報にして当社サイトの機能向上に役立てたり、当社サイトをお客様個人の興味に合ったものにすることに使われます。
+宣伝クッキー<br>
+このタイプのクッキーにより、ヌーラボサイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して 、お客様が興味を持っている宣伝を提供するクッキーもあります。
 </td>
 <td width="200">
-Mixpanel<br>
-Google Universal Analytics<br>
-VWO<br>
-Hotjar<br>
-Bing
+AddThis<br>
+BlueKai<br>
+DoubleClick
 </td>
 <td width="400">
-このタイプのクッキーは、お客様のブラウザ設定を使用して削除もしくはブロックすることができます。<br>
+このタイプのクッキーは、お客様のブラウザ設定を使用して消去もしくはブロックすることができます。<br>
   (下記クッキー制御の方法を御参照)
+
+あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
+
+AddThis http://www.addthis.com/privacy/opt-out<br>
+BlueKai http://www.bluekai.com/consumers.php#optout<br>
+DoubleClick https://www.google.com/settings/ads/plugin<br>
+
 </td>
 </tr>
 </table>
