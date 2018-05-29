@@ -24,7 +24,7 @@ https://livlog.jp, https://www.cotogoto.ai/
 
 <table>
 <tr>
-<th width="200">
+<th width="300">
   クッキーのタイプ
 </th>
 <th width="200">
