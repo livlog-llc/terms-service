@@ -83,13 +83,21 @@ Bing
 </td>
 <td width="400">
 このタイプのクッキーは、お客様のブラウザ設定を使用して削除もしくはブロックすることができます。<br>
-  (下記クッキー制御の方法を御参照)
+(下記クッキー制御の方法を御参照)
+
+あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
+
+Mixpanel<br>https://mixpanel.com/optout/<br>
+Google Universal Analytics<br>https://tools.google.com/dlpage/gaoptout<br>
+VWO<br>https://vwo.com/opt-out/<br>
+Hotjar<br>https://www.hotjar.com/legal/compliance/opt-out<br>
+Bing<br>https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 </td>
 </tr>
 <tr>
 <td width="200">
 宣伝クッキー<br>
-このタイプのクッキーにより、ヌーラボサイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して 、お客様が興味を持っている宣伝を提供するクッキーもあります。
+このタイプのクッキーにより、ヌーラボサイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して、お客様が興味を持っている宣伝を提供するクッキーもあります。
 </td>
 <td width="200">
 AddThis<br>
