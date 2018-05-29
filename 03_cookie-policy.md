@@ -102,10 +102,9 @@ DoubleClick
 
 あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
 
-AddThis http://www.addthis.com/privacy/opt-out<br>
-BlueKai http://www.bluekai.com/consumers.php#optout<br>
-DoubleClick https://www.google.com/settings/ads/plugin<br>
-
+AddThis<br>http://www.addthis.com/privacy/opt-out<br>
+BlueKai<br>http://www.bluekai.com/consumers.php#optout<br>
+DoubleClick<br>https://www.google.com/settings/ads/plugin
 </td>
 </tr>
 </table>
