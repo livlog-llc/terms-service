@@ -27,8 +27,8 @@ LivLog.LLC（以下「当社」）は、以下のとおり個人情報保護方�
 
 ## お問い合せ
 当社の個人情報の取扱に関するお問い合せは下記までご連絡ください。
-LivLog.LLC<br>
-Mail:info[at]livlog.jp
+<br>LivLog.LLC
+<br>Mail:info[at]livlog.jp
 
 ### 改訂履歴
 平成28年10月1日 制定
