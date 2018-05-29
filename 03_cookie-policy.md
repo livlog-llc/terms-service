@@ -62,10 +62,15 @@ Bing
 あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
 
 Mixpanel https://mixpanel.com/optout/
+
 Google Universal Analytics https://tools.google.com/dlpage/gaoptout
+
 VWO https://vwo.com/opt-out/
+
 Hotjar https://www.hotjar.com/legal/compliance/opt-out
+
 Bing https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
 宣伝クッキー
 このタイプのクッキーにより、当社サイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して 、お客様が興味を持っている宣伝を提供するクッキーもあります。
 
@@ -94,8 +99,11 @@ Speakerdeck
 あるいは、下記リンクからオプトアウトを選択してください。
 
 Facebook https://www.facebook.com/ads/settings
+
 LinkedIn https://www.linkedin.com/psettings/guest-controls?trk
+
 Twitter https://help.twitter.com/en/rules-and-policies/twitter-cookies
+
 
 ## クッキーの制御の仕方
 当社サイトを一定の国から最初に閲覧する時に、お客様は、クッキーおよびこれと類似した技術が使用されている旨のメッセージを受け取ります。「クッキー承諾」をクリックしてメッセージを閉じるか、当社サイトの閲覧を続けると、これら技術がこのクッキーに関する方針に規定する通りに使用されることを、お客様が理解し合意を示したことになります。
@@ -105,13 +113,19 @@ Twitter https://help.twitter.com/en/rules-and-policies/twitter-cookies
 下記リンクを通して、最も人気のあるブラウザの有益な情報を得ることができます。
 
 Microsoft Internet Explorer: https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
+
 Google Chrome: https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en
+
 Mozilla Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+
 Apple Safari: https://support.apple.com/kb/PH21411?locale=en_US
+
 更に、下記にアクセスして宣伝クッキーの選択をすることができます。
 
 http://www.aboutads.info/choices/,
+
 http://www.networkadvertising.org/choices/; or
+
 http://youronlinechoices.com/.
 
 ## 宣伝ターゲット
