@@ -118,11 +118,11 @@ Apple Safari: https://support.apple.com/kb/PH21411?locale=en_US
 
 更に、下記にアクセスして宣伝クッキーの選択をすることができます。
 
-http://www.aboutads.info/choices/,
+http://www.aboutads.info/choices/
 
-http://www.networkadvertising.org/choices/; or
+http://www.networkadvertising.org/choices/
 
-http://youronlinechoices.com/.
+http://youronlinechoices.com/
 
 ## 宣伝ターゲット
 第三者（例えば、宣伝ネットワークとウェブトラフィック分析サービスといった外部のサービス提供者等を含む）がクッキーを使用していますが、当社はこれを制御することはできないことに御留意ください。これらのクッキーは、多くは、分析・パフォーマンスクッキーです。 これらの会社は、お客様が興味を持つかもしれない商品やサービスに関する宣伝を提供する目的で、お客様が様々なウェブサイトを閲覧したという情報を使うことがあります。これらの会社は、宣伝の効果があるかどうかを観測するために用いる技術を使うことがあります。
