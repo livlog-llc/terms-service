@@ -25,7 +25,7 @@ https://livlog.jp, https://www.cotogoto.ai/
 
 
 
-| <nobr>クッキーのタイプ</nobr> | <nobr>クッキー設定者</nobr> | <nobr>クッキーの拒絶の仕方</nobr> |
+| <span style="white-space: nowrap;">クッキーのタイプ</span> | <span style="white-space: nowrap;">クッキー設定者</span> | <span style="white-space: nowrap;">クッキーの拒絶の仕方</span> |
 |:---|:---|:---| 
 | 必須クッキー<br>このタイプのクッキーは、当社サイトの運営に必要です。このタイプのクッキーには、例えば、お客様が当社のウェブサイトに安全にログインするとか、ショッピングカートを使うとか、e-ビリングを使う場合に必要なクッキーです。 | Backlog<br>Cacoo<br>Typetalk<br>Nulab apps<br>Stripe<br>PayJP<br>Amazon Web Services | このタイプのクッキーは、クッキーに関する方針サイトへのアクセスに必須ですので拒絶できません。ただし、お客様のブラウザ設定を使用して消去もしくはブロックすることはできます。 (下記クッキー制御の方法を御参照) |
 | TD2 | TD4 | TD3 |
