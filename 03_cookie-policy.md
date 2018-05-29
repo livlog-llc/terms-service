@@ -22,7 +22,19 @@ https://livlog.jp, https://www.cotogoto.ai/
 
 当社サイトに設定されている当人クッキーと第三者クッキーのタイプの分類と目的は、以下の表に記載されています。
 
-
+<table>
+<tr>
+<td style="width: 200px;">
+  クッキーのタイプ
+</td>
+<td style="width: 200px;">
+  クッキー設定者
+</td>
+<td style="width: 400px;">
+  クッキーの拒絶の仕方
+</td>
+</tr>
+</table>
 
 
 | <span style="white-space: nowrap;">クッキーのタイプ</span> | <span style="white-space: nowrap;">クッキー設定者</span> | <span style="white-space: nowrap;">クッキーの拒絶の仕方</span> |
