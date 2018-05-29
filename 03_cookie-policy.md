@@ -86,52 +86,6 @@ Bing
 </tr>
 </table>
 
-あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
-
-Mixpanel https://mixpanel.com/optout/
-
-Google Universal Analytics https://tools.google.com/dlpage/gaoptout
-
-VWO https://vwo.com/opt-out/
-
-Hotjar https://www.hotjar.com/legal/compliance/opt-out
-
-Bing https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
-
-宣伝クッキー
-このタイプのクッキーにより、当社サイトに出てくる宣伝を、お客様がより御興味のある宣伝にすることができます。このタイプのクッキーで、宣伝が何回も繰り返し出てくることを防ぎ、宣伝が適正に出てくるようにすることができます。第三者クッキーの中には、異なるウェブサイト上のユーザーを追跡して 、お客様が興味を持っている宣伝を提供するクッキーもあります。
-
-AddThis
-BlueKai
-DoubleClick
-このタイプのクッキーは、お客様のブラウザ設定を使用して消去もしくはブロックすることができます。(下記クッキー制御の方法を御参照)
-
-あるいは、下記リンクから第三者のプライバシーポリシーを御覧頂くか、オプトアウトを選択して頂くことができます。
-
-AddThis http://www.addthis.com/privacy/opt-out
-BlueKai http://www.bluekai.com/consumers.php#optout
-DoubleClick https://www.google.com/settings/ads/plugin
-ソーシャルメディアクッキー
-このタイプのクッキーにより、ソーシャルメディア機能を当社サイトに組み込むことができ、また、これを宣伝目的にも使います。
-
-Facebook
-Linkedin
-Twitter
-Wistia
-Youtube
-Slideshare
-Speakerdeck
-このタイプのクッキーは、お客様のブラウザ設定を使用して削除もしくはブロックすることができます。(下記クッキー制御の方法を御参照)
-
-あるいは、下記リンクからオプトアウトを選択してください。
-
-Facebook https://www.facebook.com/ads/settings
-
-LinkedIn https://www.linkedin.com/psettings/guest-controls?trk
-
-Twitter https://help.twitter.com/en/rules-and-policies/twitter-cookies
-
-
 ## クッキーの制御の仕方
 当社サイトを一定の国から最初に閲覧する時に、お客様は、クッキーおよびこれと類似した技術が使用されている旨のメッセージを受け取ります。「クッキー承諾」をクリックしてメッセージを閉じるか、当社サイトの閲覧を続けると、これら技術がこのクッキーに関する方針に規定する通りに使用されることを、お客様が理解し合意を示したことになります。
 
