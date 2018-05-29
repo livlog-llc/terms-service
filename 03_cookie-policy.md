@@ -24,13 +24,13 @@ https://livlog.jp, https://www.cotogoto.ai/
 
 <table>
 <tr>
-<td style="width: 200px;">
+<td width="200">
   クッキーのタイプ
 </td>
-<td style="width: 200px;">
+<td width="200">
   クッキー設定者
 </td>
-<td style="width: 400px;">
+<td width="400">
   クッキーの拒絶の仕方
 </td>
 </tr>
