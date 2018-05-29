@@ -24,23 +24,30 @@ https://livlog.jp, https://www.cotogoto.ai/
 
 <table>
 <tr>
-<td width="200">
+<th width="200">
   クッキーのタイプ
+</th>
+<th width="200">
+  クッキー設定者
+</th>
+<th width="400">
+  クッキーの拒絶の仕方
+</th>
+</tr>
+<tr>
+<td width="200">
+  必須クッキー<br>このタイプのクッキーは、当社サイトの運営に必要です。このタイプのクッキーには、例えば、お客様が当社のウェブサイトに安全にログインするとか、ショッピングカートを使うとか、e-ビリングを使う場合に必要なクッキーです。
 </td>
 <td width="200">
-  クッキー設定者
+  Backlog<br>Cacoo<br>Typetalk<br>Nulab apps<br>Stripe<br>PayJP<br>Amazon Web Services
 </td>
 <td width="400">
-  クッキーの拒絶の仕方
+  このタイプのクッキーは、クッキーに関する方針サイトへのアクセスに必須ですので拒絶できません。ただし、お客様のブラウザ設定を使用して消去もしくはブロックすることはできます。 (下記クッキー制御の方法を御参照) 
 </td>
 </tr>
 </table>
 
 
-| <span style="white-space: nowrap;">クッキーのタイプ</span> | <span style="white-space: nowrap;">クッキー設定者</span> | <span style="white-space: nowrap;">クッキーの拒絶の仕方</span> |
-|:---|:---|:---| 
-| 必須クッキー<br>このタイプのクッキーは、当社サイトの運営に必要です。このタイプのクッキーには、例えば、お客様が当社のウェブサイトに安全にログインするとか、ショッピングカートを使うとか、e-ビリングを使う場合に必要なクッキーです。 | Backlog<br>Cacoo<br>Typetalk<br>Nulab apps<br>Stripe<br>PayJP<br>Amazon Web Services | このタイプのクッキーは、クッキーに関する方針サイトへのアクセスに必須ですので拒絶できません。ただし、お客様のブラウザ設定を使用して消去もしくはブロックすることはできます。 (下記クッキー制御の方法を御参照) |
-| TD2 | TD4 | TD3 |
 
 
 
