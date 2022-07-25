@@ -1,32 +1,34 @@
-Privacy Policy (Personal Information Protection Policy)
+# Privacy Policy (Personal Information Protection Policy)
+
 The Reblog Godo Kaisha (hereinafter “the Company”) develops and sells computer systems, and at the same time contributes to the local community by training engineers. In providing our wide range of services, in view of the usefulness of personal information, we have established an information protection policy that protects the rights and interests of individuals and intend to implement this policy in good faith.
 
 The term "personal information" used in this policy is information that can identify customers directly or indirectly using names, ID numbers, location data, online identifiers, or identifiers such as one or more customer characteristics. Means
 
 Under the EU's General Data Protection Regulation 2016 ("GDPR"), we are responsible for the https://livlog.jp, https://livlog.xyz, https://cotogoto.ai, https://chroco.ooo ( "Our Site"), including the person responsible for our website.
 
-Our data confidentiality policy
-The Company acquires, uses, and provides appropriate personal information according to the business content and scale.
-The Company will specify the purpose of use of personal information and take a reliable method in which the use of personal information does not deviate from that purpose.
-We will comply with the Act on the Protection of Personal Information, guidelines established by the government, and other related laws and regulations.
-The Company will take safety control measures to prevent leakage, loss, erasure or damage of personal information. In addition, we will prepare appropriate response methods and damage prevention methods for accidents related to personal information.
-The Company will promptly respond to requests, inquiries, and complaints regarding personal information by appointing an inquiry person.
-The Company will make appropriate improvements by reviewing safety management measures in a timely manner.
-What is the information we collect?
+## Our data confidentiality policy
+1. The Company acquires, uses, and provides appropriate personal information according to the business content and scale.
+2. The Company will specify the purpose of use of personal information and take a reliable method in which the use of personal information does not deviate from that purpose.
+3. We will comply with the Act on the Protection of Personal Information, guidelines established by the government, and other related laws and regulations.
+4. The Company will take safety control measures to prevent leakage, loss, erasure or damage of personal information. In addition, we will prepare appropriate response methods and damage prevention methods for accidents related to personal information.
+5. The Company will promptly respond to requests, inquiries, and complaints regarding personal information by appointing an inquiry person.
+6. The Company will make appropriate improvements by reviewing safety management measures in a timely manner.
+
+## What is the information we collect?
 The method of collecting personal information collected from customers and personal information about customers is as follows.
 
-Personal information you provide to us
+### Personal information you provide to us
 You may provide personal information, including your name and contact information, by filling out a form or responding to us by mail, phone, e-mail or otherwise. Including, but not limited to, personal information you provide to us in the following cases:
 
-When you make an inquiry about our services, register to use them, or obtain explanatory materials related to our services by downloading, etc.
-When subscribing to our publications or newsletters
-When requesting the delivery of promotional materials
-When you send feedback
-When responding to a questionnaire for users for the purpose of statistical surveys and applying for the Present Sweepstakes
+* When you make an inquiry about our services, register to use them, or obtain explanatory materials related to our services by downloading, etc.
+* When subscribing to our publications or newsletters
+* When requesting the delivery of promotional materials
+* When you send feedback
+* When responding to a questionnaire for users for the purpose of statistical surveys and applying for the Present Sweepstakes
 Events, seminars, business negotiations, etc. conducted by the Company (regardless of offline or online, hereinafter referred to as "events, etc.") When applying for or when filling out or responding to questionnaires when participating in events, etc.
-When responding to your information at our request when using our API
+* When responding to your information at our request when using our API
 Personal information we collect
-When you open our site, the following information is automatically collected:
+* When you open our site, the following information is automatically collected:
 
 Your equipment
 Browsing activities (including your usage, frequency of use, and time spent) ) and patterns
