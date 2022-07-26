@@ -98,44 +98,49 @@ Our site uses "SSL" to protect personal information. By using a browser that sup
 
 If you use a browser that does not support SSL, you will not be able to access our site or enter information.
 
-The right to be kept secret in Europe
-(Applicable only to European residents)
+## The right to be kept secret in Europe
+**(Applicable only to European residents)** <br>
 We collect and process your personal information only if there is a legal basis for processing under the data protection laws including GDPR. The legal basis depends on the purpose for which we process your personal information. We collect and use your personal information only when:
 
-When necessary to operate our site, provide customer support and customer-specific products, and provide services including ensuring the safety and protection of our site
-When necessary to obtain legitimate benefits (to the extent that they do not harm your rights and interests), such as research and development, sales and promotion of our site, and protection of our legal rights and interests
-If you have agreed to use it for a specific purpose, or
-If your personal information needs to be processed to comply with legal obligations
-You have the right to change your mind at any time, even if you have agreed to use personal information for a specific purpose.
+* When necessary to operate our site, provide customer support and customer-specific products, and provide services including ensuring the safety and protection of our site
+* When necessary to obtain legitimate benefits (to the extent that they do not harm your rights and interests), such as research and development, sales and promotion of our site, and protection of our legal rights and interests
+* If you have agreed to use it for a specific purpose, or If your personal information needs to be processed to comply with legal obligations
+* You have the right to change your mind at any time, even if you have agreed to use personal information for a specific purpose.
+
 We can send newsletters and promotional emails using your email address. We ask for your consent in accordance with the law when you first provide personal information. You can opt out by following the unsubscribe instructions contained in these emails or contact us using the contact page on our site.
 
 In certain circumstances, you have a GDPR right regarding your personal information. However, the right to keep these data confidential does not apply to us if we process your personal information as a person who processes the data for our customers. In that case, the right to keep your European data confidential must be exercised against our customer (ie the data controller).
 
-Request to access personal information
+### Request to access personal information
 The customer includes the personal information that the Company holds and the purpose of processing the personal information, the recipient of the personal information or the scope of the recipient, and if possible, the period during which the personal information is stored, You may have the right to request access to related information, including the source of the information and whether there is an automated decision system.
 
-Request for correction of personal information
+### Request for correction of personal information
 You may have the right to correct inaccurate portions of your personal information held by us without undue delay.
 
-Request to delete personal information
+### Request to delete personal information
 You may have the right to request erasure of your personal information.
 
-Request to restrict processing of personal information
+### Request to restrict processing of personal information
 You may have the right to prohibit or limit the processing of your personal information.
 
-Request to transfer personal information
+### Request to transfer personal information
 Where technically possible, you may have the right to have your personal information transferred directly to a third party.
 
 You have the right to file a complaint with the EU Data Protection Authority if you believe that we do not comply with this privacy policy and the obligations of GDPR.
 
-contact information
+## Contact information
 If you have any questions regarding this privacy policy or personal information protection, Contact Us Please contact us.
 
-Changes to this policy
+## Changes to this policy
 This policy may be revised due to changes in the Company's information management practices. If there is a material revision, we will notify you on our site before the revision becomes effective. For the latest information on our personal information protection practices, please periodically visit this page.
 
-Revision history
-Established on October 03, 2016
-Revised May 30, 2018
-Reiwa 1st July 20th, 2019 Partially revised, Chroco added to our site
-April 01, Reiwa Responding to the amended Act on the Protection of Personal Information
+### Revision history
+October 03, 2016 Enactment.<br>
+May 30, 2018 revision.<br>
+July 20, 2019 Partially revised, added Chroco for our site.<br>
+April 01, 2022 Corresponds to the revised Personal Information Protection Law.
+
+
+
+
+
