@@ -27,68 +27,73 @@ You may provide personal information, including your name and contact informatio
 * When responding to a questionnaire for users for the purpose of statistical surveys and applying for the Present Sweepstakes
 Events, seminars, business negotiations, etc. conducted by the Company (regardless of offline or online, hereinafter referred to as "events, etc.") When applying for or when filling out or responding to questionnaires when participating in events, etc.
 * When responding to your information at our request when using our API
-Personal information we collect
-* When you open our site, the following information is automatically collected:
 
-Your equipment
-Browsing activities (including your usage, frequency of use, and time spent) ) and patterns
-Date of access to our site
-Websites you viewed before you viewed our site
-Technical information about your browser, operating system type and language, IP address, and domain name
-When accessing from a mobile application, your carrier, device identifier, type of device you are using, performance information, the app store used to download the application, your behavior during the application, how often you use it, and usage (including counting the number of times you are using it). ）
+### Personal information we collect
+When you open our site, the following information is automatically collected:
+
+* Your equipment
+* Browsing activities (including your usage, frequency of use, and time spent) and patterns
+* Date of access to our site
+* Websites you viewed before you viewed our site
+* Technical information about your browser, operating system type and language, IP address, and domain name
+* When accessing from a mobile application, your carrier, device identifier, type of device you are using, performance information, the app store used to download the application, your behavior during the application, how often you use it, and usage (including counting the number of times you are using it.) 
+
 This personal information is collected using cookies, server logs and other similar technologies. The content collected and logged in the access log is used as server operation information that helps to improve our site and services, and is also used to provide information useful for the use of our services and information for sales promotion from the Company by e-mail etc. depending on the customer's usage situation.
 
 In this case, when used as server operation information, it will not be used in connection with personal information, but when providing guidance to customers by e-mail, the customer's user information and e-mail address will be linked.
 
 You can disable the cookie function by setting your browser, but as a result, you may not be able to use all or part of the services on the website.
 
-About cookies
+## About cookies
 Like many other websites, we use a tool called "cookies" to make our site even more convenient for you.
 
 Cookies are small pieces of data that are transferred between a web server and your web browser and stored as files on your computer disk or mobile phone device.
 
 We mainly use cookies for the following purposes:
 
-To ensure that you do not have to enter a password each time you use the Service;
-To provide specifications that are tailored to each and every one of our customers on our site and our services
-To analyze to help you understand the activities of customers who use our services
-(The results of the analysis may be used to guide customers or promote sales.) ）
-You can disable the function of cookies by selecting your browser settings. However, please note that in this case, you may not be able to use all or part of our site services. We may allow third parties we select to put cookies on our site in order to consider how we use our site and the demographics of users and to provide you with promotions related to you. These third parties may collect information about how long they have been online and how they travel to other websites when they use our website. We do not use technology that recognizes the signal "do-not-track" from your web browser. For more information about our cookie policy, please see Our Cookie Policy.
+* To ensure that you do not have to enter a password each time you use the Service
+* To provide specifications that are tailored to each and every one of our customers on our site and our services
+* To analyze to help you understand the activities of customers who use our services<br>
+(The results of the analysis may be used to guide customers or promote sales.) 
 
-What is the purpose of our handling of personal information?
+You can disable the function of cookies by selecting your browser settings. However, please note that in this case, you may not be able to use all or part of our site services. We may allow third parties we select to put cookies on our site in order to consider how we use our site and the demographics of users and to provide you with promotions related to you. These third parties may collect information about how long they have been online and how they travel to other websites when they use our website. We do not use technology that recognizes the signal "do-not-track" from your web browser. For more information about our cookie policy, please see Our [Cookie Policy](https://livlog.jp/cookie).
+
+## What is the purpose of our handling of personal information?
 We process your personal information for the following purposes (including collecting, recording, editing, composing, recording, modifying or modifying, searching, referring, using, transmitting disclosure, distribution, alignment, binding, restriction, erasure and destruction: The same below. )
 
-Customer identification
-When checking whether you are eligible to use our services (e.g., that you are 18 years of age or older, do not fall under antisocial forces, etc.)
-Answer customer questions and provide relevant customer service
-Detect and prevent fraud and other crimes involving money
-Monitoring and protecting our information, systems and networks
-Perform research and product development and improvement for internal business research purposes
-Contacting customers about changes to our site and other services
-Conduct sales promotions and commercial activities to present and promote sales to customers
-Content originating from our site is most effectively presented to customers and their computers
-Presenting content based on customer interests
-Enable customers to search for information on our site
-Find out what you need and are interested in to make suggestions and promotions better suited to you
-Improvement of our site
-e-mail
+* Customer identification
+* When checking whether you are eligible to use our services (e.g., that you are 18 years of age or older, do not fall under antisocial forces, etc.)
+* Answer customer questions and provide relevant customer service
+* Detect and prevent fraud and other crimes involving money
+* Monitoring and protecting our information, systems and networks
+* Perform research and product development and improvement for internal business research purposes
+* Contacting customers about changes to our site and other services
+* Conduct sales promotions and commercial activities to present and promote sales to customers
+* Content originating from our site is most effectively presented to customers and their computers
+* Presenting content based on customer interests
+* Enable customers to search for information on our site
+* Find out what you need and are interested in to make suggestions and promotions better suited to you
+* Improvement of our site
+
+## e-mail
 We may send you emails to announce our services, features, research, news, promotions, content and events. You may choose not to receive these emails. We may use third party services to send e-mails or to facilitate smooth communication with you. For smooth communication, we may provide information such as your email address to third-party service providers for this purpose only.
 
-Who will provide the information?
+## Who will provide the information?
 Your personal information is strictly confidential. For the purposes stipulated in this policy on the protection of personal information, we can provide your personal information to:
 
-A company that provides services to assist our business activities such as data storage, maintenance services, database management, web analytics, and payment procedures.
-A third party that we have chosen to sell, transfer or consolidate a portion of its business or assets, or a partner company where we have acquired or integrated another company. If there is any change in our business, the new owner will use your personal information in the same way as this policy on the protection of personal information.
+* A company that provides services to assist our business activities such as data storage, maintenance services, database management, web analytics, and payment procedures.
+* A third party that we have chosen to sell, transfer or consolidate a portion of its business or assets, or a partner company where we have acquired or integrated another company. If there is any change in our business, the new owner will use your personal information in the same way as this policy on the protection of personal information.
+
 We oblige all third parties to consider the safety of their personal information and handle it in accordance with the law. We do not allow third-party service providers to use your personal information for their own purposes, but to process your personal information for specific purposes and in accordance with our instructions Only forgive.
 
 If personal information relating to individuals residing or located in Europe is provided to third parties in non-European countries that have not been certified as sufficient by the European Commission, we will implement the transfer of data in accordance with safety measures such as standard contractual clauses approved by the European Commission and a confidentiality framework between Switzerland and the US.
 
 Our company is headquartered in Japan. It also works with third parties who are service providers in a variety of countries, including cloud providers, web hosting, helpdesk software providers, and payment processors. Your information will be transferred outside the European Economic Area (EEA) as part of our business operations and stored or processed in other countries (including Japan, Singapore and the United States). By using our site, you agree that your information will be transferred to these locations. If we transfer personal information from the EEA to a country where the European Commission has not recognized it as sufficient, we will rely on appropriate safeguards for the transfer of information, such as standard contractual clauses approved by the European Commission.
 
-How long is the information stored?
+## How long is the information stored?
 We will store your personal information in a format that allows you to identify you as long as it does not exceed the period required for the purpose of processing your personal information. We comply with legal obligations, resolve disputes, and as long as necessary to enforce agreements and rights, or where it is not technically reasonable to take it away We will use your personal information. Otherwise, we will try to erase your personal information within a reasonable period of time after your request.
 
-About SSL
+## About SSL
 Our site uses "SSL" to protect personal information. By using a browser that supports safety features, if you visit our site, enter personal information including your name and email address, and this information is transferred to our server, A third party automatically encrypts it when it is sent to and received by the server. Therefore, even if the transmitted data is intercepted by someone, there is no need to worry about the contents being stolen.
 
 If you use a browser that does not support SSL, you will not be able to access our site or enter information.
