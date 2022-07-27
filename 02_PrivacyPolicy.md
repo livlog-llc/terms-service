@@ -1,6 +1,6 @@
 # Privacy Policy (Personal Information Protection Policy)
 
-The  (hereinafter “the Company”) develops and sells computer systems, and at the same time contributes to the local community by training engineers. In providing our wide range of services, in view of the usefulness of personal information, we have established an information protection policy that protects the rights and interests of individuals and intend to implement this policy in good faith.
+The LivLog llc (hereinafter “the Company”) develops and sells computer systems, and at the same time contributes to the local community by training engineers. In providing our wide range of services, in view of the usefulness of personal information, we have established an information protection policy that protects the rights and interests of individuals and intend to implement this policy in good faith.
 
 The term "personal information" used in this policy is information that can identify customers directly or indirectly using names, ID numbers, location data, online identifiers, or identifiers such as one or more customer characteristics. Means
 
