@@ -78,69 +78,73 @@ We process your personal information for the following purposes (including colle
 ## e-mail
 We may send you emails to announce our services, features, research, news, promotions, content and events. You may choose not to receive these emails. We may use third party services to send e-mails or to facilitate smooth communication with you. For smooth communication, we may provide information such as your email address to third-party service providers for this purpose only.
 
-## Who will provide the information?
-Your personal information is strictly confidential. For the purposes stipulated in this policy on the protection of personal information, we can provide your personal information to:
+********
 
-* A company that provides services to assist our business activities such as data storage, maintenance services, database management, web analytics, and payment procedures.
-* A third party that we have chosen to sell, transfer or consolidate a portion of its business or assets, or a partner company where we have acquired or integrated another company. If there is any change in our business, the new owner will use your personal information in the same way as this policy on the protection of personal information.
 
-We oblige all third parties to consider the safety of their personal information and handle it in accordance with the law. We do not allow third-party service providers to use your personal information for their own purposes, but to process your personal information for specific purposes and in accordance with our instructions Only forgive.
 
-If personal information relating to individuals residing or located in Europe is provided to third parties in non-European countries that have not been certified as sufficient by the European Commission, we will implement the transfer of data in accordance with safety measures such as standard contractual clauses approved by the European Commission and a confidentiality framework between Switzerland and the US.
+## Provision of personal information
+We take the confidentiality of your personal information very seriously. For the purposes set forth in this Policy, we may provide your personal information to:
 
-Our company is headquartered in Japan. It also works with third parties who are service providers in a variety of countries, including cloud providers, web hosting, helpdesk software providers, and payment processors. Your information will be transferred outside the European Economic Area (EEA) as part of our business operations and stored or processed in other countries (including Japan, Singapore and the United States). By using our site, you agree that your information will be transferred to these locations. If we transfer personal information from the EEA to a country where the European Commission has not recognized it as sufficient, we will rely on appropriate safeguards for the transfer of information, such as standard contractual clauses approved by the European Commission.
+* Our audit firm, accountants, lawyers and other professionals
+* Companies that provide services that assist our business activities, such as data storage, maintenance services, database management, web analytics, and payment processing
+* A company that succeeds the Company's business or assets due to organizational restructuring or business transfer, etc.
 
-## How long is the information stored?
-We will store your personal information in a format that allows you to identify you as long as it does not exceed the period required for the purpose of processing your personal information. We comply with legal obligations, resolve disputes, and as long as necessary to enforce agreements and rights, or where it is not technically reasonable to take it away We will use your personal information. Otherwise, we will try to erase your personal information within a reasonable period of time after your request.
+If we are required by law to provide your personal information for purposes such as protecting the safety of our customers or third parties, conducting criminal investigations, or making inquiries from the government or other third parties, we will do so as required by law. We may provide your personal information within the scope. We will also notify you when we provide your personal information for government or other third party inquiries, unless such notice is prohibited by applicable law.
 
-## About SSL
-Our site uses "SSL" to protect personal information. By using a browser that supports safety features, if you visit our site, enter personal information including your name and email address, and this information is transferred to our server, A third party automatically encrypts it when it is sent to and received by the server. Therefore, even if the transmitted data is intercepted by someone, there is no need to worry about the contents being stolen.
+We require all third parties to handle personal information safely in accordance with laws and regulations. In addition, we will oblige the third party to which we entrust the handling of personal information to handle your personal information in accordance with our instructions only for the purpose of entrustment.
 
-If you use a browser that does not support SSL, you will not be able to access our site or enter information.
+If the GDPR applies to the handling of your personal information and your personal information is provided to a third party located in a country that has not received an adequacy decision from the European Commission, we will takes safeguards such as Standard Contractual Clauses approved by the European Commission. You can review the details of the safeguards (including a copy of the Standard Contractual Clauses) by contacting us through the [Contact Us](https://livlog.jp/) page on our site.
 
-## The right to be kept secret in Europe
-**(Applicable only to European residents)** <br>
-We collect and process your personal information only if there is a legal basis for processing under the data protection laws including GDPR. The legal basis depends on the purpose for which we process your personal information. We collect and use your personal information only when:
+## Retention period of personal information
+We store your personal information in a form that allows you to be identified, for as long as necessary for the purpose of processing the personal information. In addition, if it is necessary for legal compliance, dispute resolution or exercise of rights, or if it is technically difficult to immediately delete personal information, we will retain your personal information to the extent necessary. To do.
 
-* When necessary to operate our site, provide customer support and customer-specific products, and provide services including ensuring the safety and protection of our site
-* When necessary to obtain legitimate benefits (to the extent that they do not harm your rights and interests), such as research and development, sales and promotion of our site, and protection of our legal rights and interests
-* If you have agreed to use it for a specific purpose, or If your personal information needs to be processed to comply with legal obligations
-* You have the right to change your mind at any time, even if you have agreed to use personal information for a specific purpose.
+## Safety management measures
+We will take security control measures to prevent leakage, loss, deletion or damage of personal information. In addition, we will prepare appropriate methods of responding to accidents related to personal information and methods of preventing the spread of damage. The security control measures taken by the Company include the execution of appropriate contracts and supervision with subcontractors and employees. When handling personal information in a foreign country, we will take appropriate security control measures after understanding the system, etc. regarding the protection of personal information in that country.
 
-We can send newsletters and promotional emails using your email address. We ask for your consent in accordance with the law when you first provide personal information. You can opt out by following the unsubscribe instructions contained in these emails or contact us using the contact page on our site.
+We will make appropriate improvements by reviewing safety management measures in a timely manner.
 
-In certain circumstances, you have a GDPR right regarding your personal information. However, the right to keep these data confidential does not apply to us if we process your personal information as a person who processes the data for our customers. In that case, the right to keep your European data confidential must be exercised against our customer (ie the data controller).
+## About SSL/TLS
+Our site uses SSL/TLS to protect personal information. SSL/TLS uses a browser with security functions to access our website, enter personal information such as name and email address, and when the personal information is sent to our server, It automatically encrypts the personal information concerned. Therefore, if a third party intercepts the personal information sent by the customer, the third party cannot decipher the contents of the personal information.
 
-### Request to access personal information
-The customer includes the personal information that the Company holds and the purpose of processing the personal information, the recipient of the personal information or the scope of the recipient, and if possible, the period during which the personal information is stored, You may have the right to request access to related information, including the source of the information and whether there is an automated decision system.
+If you use a browser that cannot use SSL, you may not be able to access our site or read information.
 
-### Request for correction of personal information
-You may have the right to correct inaccurate portions of your personal information held by us without undue delay.
+## Legal Basis for Processing Personal Information
+If the GDPR applies to the processing of your personal information, we will process your personal information only if we have the following legal grounds for processing your personal information.
 
-### Request to delete personal information
-You may have the right to request erasure of your personal information.
+* Contracts: where we need to process your personal information in order to perform a contract we have entered into with you
+* Legal obligation: when we need to process your personal information to comply with a legal obligation
+* Legitimate Interests: When processing your personal information is necessary for the legitimate interests sought by us or a third party, and your interests and fundamental rights do not override those legitimate interests.
+* Consent: If you have given us your consent to our processing of your personal data, you may withdraw your consent at any time, but your withdrawal of your consent will not affect the lawfulness of the processing of your personal data based on your consent prior to the withdrawal.
 
-### Request to restrict processing of personal information
-You may have the right to prohibit or limit the processing of your personal information.
+If you have any questions regarding the details of our legitimate interests, please contact us via the [Contact Us](https://livlog.jp/) page of our site.
 
-### Request to transfer personal information
-Where technically possible, you may have the right to have your personal information transferred directly to a third party.
+## Your rights
+You have several legal rights regarding the personal information we hold about you. These rights may vary depending on where you are located and the data protection laws applicable to your relationship with us, but they typically include:
 
-You have the right to file a complaint with the EU Data Protection Authority if you believe that we do not comply with this privacy policy and the obligations of GDPR.
+* **Right of access to personal information** Personal information of customers held by the Company, purpose of processing personal information, recipients of personal information or their scope, period for which personal information is stored (if not possible, used to determine that period) the right to lodge a complaint with a supervisory authority, the source of personal information, the right to request access to relevant information, including whether automated decision-making exists.
+* **Right to correction of personal information** Right to request correction from us if your personal information is inaccurate or incomplete.
+* **Right to erasure of personal information** The right to request us to erase your personal information in certain circumstances, including:
+    * When it is no longer necessary for us to store your personal information in light of the purposes for which we collected it;
+    * If we can only process personal information based on your consent and you withdraw your consent.
+    * You object to our processing of your personal information on the basis of our legitimate interests, and those legitimate interests do not override your interests, rights and freedoms.
+* **Right to request restriction of processing of personal information** Right to restrict processing of your personal information in certain circumstances, including:
+    * When the customer disputes the accuracy of their personal information (limited to the period necessary for us to confirm the accuracy of the personal information.)
+    * When we no longer need to process the personal information for purposes other than raising, exercising or defending legal claims.
+    * f you object to our processing of your personal information based on legitimate interests (the period necessary to determine whether your legitimate interests override your interests, rights and freedoms) limited to.)
+* **Right of objection** Right to object to us regarding the handling of your personal information.
+* **Right to data portability** Where we process personal information you provide to us on the legal basis of consent or contract, we receive personal information in a structured, commonly used and machine-readable format, or we receive it in a technical to the extent reasonably practicable, the right to request the direct transfer of personal information to a third party.
 
-## Contact information
-If you have any questions regarding this privacy policy or personal information protection, Contact Us Please contact us.
+If you believe that we have not complied with this Policy or our obligations under the GDPR, you may file a complaint with the competent data protection authority.
+
+## Contact address
+If you have any questions regarding the provisions of this Privacy Policy or the protection of your personal information, please [contact us](https://livlog.jp/) through the inquiry form on our website.
 
 ## Changes to this policy
-This policy may be revised due to changes in the Company's information management practices. If there is a material revision, we will notify you on our site before the revision becomes effective. For the latest information on our personal information protection practices, please periodically visit this page.
+We may revise this policy. If there are any important revisions, we will notify you in advance on our website. Please check this policy periodically for the most up-to-date information about how we handle personal information.
 
 ### Revision history
 October 03, 2016 Enactment.<br>
 May 30, 2018 revision.<br>
 July 20, 2019 Partially revised, added Chroco for our site.<br>
-April 01, 2022 Corresponds to the revised Personal Information Protection Law.
-
-
-
-
-
+April 01, 2022 Corresponds to the revised Personal Information Protection Law.<br>
+August 10, 2022 Corrected the description of the text to make it easier to understand.
