@@ -78,10 +78,6 @@ We process your personal information for the following purposes (including colle
 ## e-mail
 We may send you emails to announce our services, features, research, news, promotions, content and events. You may choose not to receive these emails. We may use third party services to send e-mails or to facilitate smooth communication with you. For smooth communication, we may provide information such as your email address to third-party service providers for this purpose only.
 
-********
-
-
-
 ## Provision of personal information
 We take the confidentiality of your personal information very seriously. For the purposes set forth in this Policy, we may provide your personal information to:
 
