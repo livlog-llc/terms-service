@@ -118,7 +118,7 @@ If the GDPR applies to the processing of your personal information, we will proc
 
 If you have any questions regarding the details of our legitimate interests, please contact us via the [Contact Us](https://livlog.jp/) page of our site.
 
-## Your rights
+## Disclosure, correction, deletion, etc. of personal information
 You have several legal rights regarding the personal information we hold about you. These rights may vary depending on where you are located and the data protection laws applicable to your relationship with us, but they typically include:
 
 * **Right of access to personal information** Personal information of customers held by the Company, purpose of processing personal information, recipients of personal information or their scope, period for which personal information is stored (if not possible, used to determine that period) the right to lodge a complaint with a supervisory authority, the source of personal information, the right to request access to relevant information, including whether automated decision-making exists.
@@ -148,3 +148,4 @@ May 30, 2018 revision.<br>
 July 20, 2019 Partially revised, added Chroco for our site.<br>
 April 01, 2022 Corresponds to the revised Personal Information Protection Law.<br>
 August 10, 2022 Corrected the description of the text to make it easier to understand.
+December 07, 2022 Changed "Your rights" to "Disclosure, correction, deletion, etc. of personal information"
