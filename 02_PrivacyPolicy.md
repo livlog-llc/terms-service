@@ -4,7 +4,7 @@ The LivLog llc (hereinafter “the Company”) develops and sells computer syste
 
 The term "personal information" used in this policy is information that can identify customers directly or indirectly using names, ID numbers, location data, online identifiers, or identifiers such as one or more customer characteristics. Means
 
-Under the EU's General Data Protection Regulation 2016 ("GDPR"), we are responsible for the https://livlog.jp, https://livlog.xyz, https://cotogoto.ai, https://chroco.ooo ( "Our Site"), including the person responsible for our website.
+Under the EU's General Data Protection Regulation 2016 ("GDPR"), we are responsible for the https://livlog.jp, https://livlog.xyz, https://dev.livlog.xyz, https://cotogoto.ai, https://chroco.ooo ("Our Site"), including the person responsible for our website.
 
 ## Our data confidentiality policy
 1. The Company acquires, uses, and provides appropriate personal information according to the business content and scale.
